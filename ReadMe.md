@@ -1,5 +1,5 @@
 # 💫 About Me:
-Daniel Honório Júnior<b>Developer Java Script and Python<br>Production and Software Engineer<br>
+Developer Java Script and Python<br>Production and Software Engineer<br>
 
 
 ## 🌐 Socials:
