@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Java Script e Python<br>Engenheiro de Produção Especialização Engenharia de Software<br>
+Daniel Honório Júnior<b>Developer Java Script and Python<br>Production and Software Engineer<br>
 
 
 ## 🌐 Socials:
