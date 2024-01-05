@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer Java Script and Python<br>Production and Software Engineer<br>
+Developer HTML5, CSS3, JAVASCRIPT E PYTHON; <br>Production and Software Engineer<br>
 
 
 ## 🌐 Socials:
