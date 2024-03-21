@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer HTML5, CSS3, JAVASCRIPT E PYTHON; <br>Production and Software Engineer<br>
+Developer HTML5, CSS3, JAVASCRIPT, FRONT-END, REACT NATIVE E PYTHON; <br>Production and Software Engineer<br>
 
 
 ## 🌐 Socials:
